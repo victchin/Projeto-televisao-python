@@ -3,4 +3,4 @@
 **Objetos:** Televisão, Controle remoto.
 
 
-**Função** Cumprir as funcionalidades básicas de uma televisão.
+**Função:** Cumprir as funcionalidades básicas de uma televisão.
